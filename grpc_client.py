@@ -9,4 +9,4 @@ stub = user_service_pb2_grpc.UserServiceStub(channel)
 
 # Отправляем запрос
 response = stub.GetUser(user_service_pb2.GetUserRequest(username="Father"))
-print(response.message)  # Выведет: Привет, Alice!
+print(response.message)  # Выведет: Привет, {username}
