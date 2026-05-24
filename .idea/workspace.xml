@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea98853b-e2c3-4017-94db-fdb3597ae30e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/course_service.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grpc_course_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grpc_course_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_users_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_users_server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grpc_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
